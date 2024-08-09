@@ -1,0 +1,16 @@
+body{
+  background-color: rgba(78, 70, 229, 0.685);
+}
+.clavier button{
+  width: 88px;
+  font-size: 1.5rem;
+  height: 80px;
+
+}
+.clavier{
+  background-color: white;
+}
+.clavier button:hover{
+  color: white;
+  background-color: rgb(79 70 229);
+}
